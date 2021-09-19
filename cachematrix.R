@@ -26,3 +26,4 @@ makeVector <- function(x = numeric()) {
              setmean = setmean,
              getmean = getmean)
         }
+
