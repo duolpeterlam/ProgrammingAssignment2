@@ -25,4 +25,4 @@ makeVector <- function(x = numeric()) {
         list(set = set, get = get,
              setmean = setmean,
              getmean = getmean)
-}
+        }
